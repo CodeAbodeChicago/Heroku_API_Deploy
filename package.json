@@ -11,6 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
-    "figlet": "^1.1.1"
+    "figlet": "^1.1.1",
+    "superheroes": "^1.0.0",
+    "supervillains": "^1.0.0"
+  },
+  "engines": {
+    "node": "4.1.1"
   }
 }
